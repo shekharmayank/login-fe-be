@@ -2,4 +2,4 @@
 
 ## Instruction
 
-To the run project please find their respective `README.md` file.
+To run the project please find their respective `README.md` file.
